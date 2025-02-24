@@ -80,8 +80,7 @@ DATABASES = {
         'NAME': 'django',
         'USER': 'myprojectuser',
         'PASSWORD': 'mypassword',
-        #'HOST': 'localhost',
-        'HOST': '192.168.1.5',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
